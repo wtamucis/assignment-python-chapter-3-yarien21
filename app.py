@@ -137,5 +137,5 @@ while True:
         if number % 2 == 0:
             print(number)
             counter += 1
-    print(f"we have {counter} even numbers")
-    print("*" * 30)
+print(f"we have {counter} even numbers")
+print("*" * 30)
