@@ -83,9 +83,9 @@ for number in range(3):
     if successful:
         print("Sussessful")
         break
-    else:
-        print("Attempted 3 times and failed")
-    print("*" * 30)
+else:
+    print("Attempted 3 times and failed")
+print("*" * 30)
 
 # if successful
 successful = True
